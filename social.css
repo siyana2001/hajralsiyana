@@ -1,0 +1,19 @@
+.sociback {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+  }
+  
+  .button-container {
+    margin: 15px;
+  }
+ 
+  
+

@@ -1,0 +1,41 @@
+.logbackground {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to bottom right , rgb(209, 11, 87),violet, blue);
+  
+    }
+  
+  .image {
+    padding: 20px; 
+  }
+  
+  .content {
+    background-color: #fff;
+    padding: 50px; 
+    border-radius: 15px; 
+  }
+  
+  .loginheading {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  #email{
+    border-radius: 20px;
+    margin: 20px;
+  } 
+  #password{
+    border-radius: 20px;
+    margin: 20px;
+  }
+  .logbutton{
+     background-color: rgb(50, 231, 50);
+     border-radius: 20px;
+     width: 480px;
+     margin-left: 20px;
+     margin-bottom: 50px;
+  }
+  
+
+  

@@ -1,0 +1,16 @@
+.card{
+    height: 550px;
+    width: 300px;
+    background-color: aquamarine;
+}
+.profile{
+    border-radius: 50%;
+    margin-left: 15%;
+}
+
+.watch{
+    border-radius: 50%;
+    margin-top: 70px;
+}
+
+
